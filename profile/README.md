@@ -23,5 +23,7 @@ a guarantee.
 - **Interchange format** — DiveJSON, the open format a whole logbook moves in:
   <https://divejson.org>.
 
-**Status: `v0.1.0`, the first release.** AGPL-3.0. Issues and discussions live on the
-repository each belongs to; the front door is the place to start.
+**Status: released, in closed beta.** AGPL-3.0; the
+[latest release](https://github.com/opendiving/opendiving/releases/latest) is on the front
+door. Issues and discussions live on the repository each belongs to; the front door is the
+place to start.
