@@ -9,7 +9,7 @@ history go with them; here every file you upload stays downloadable, and one cli
 everything back out in open formats. Self-hosting is what turns that from a promise into
 a guarantee.
 
-![OpenDiving's dashboard](https://raw.githubusercontent.com/opendiving/opendiving/main/docs/screenshots/dashboard.png)
+![OpenDiving's Home page](https://raw.githubusercontent.com/opendiving/opendiving/main/docs/screenshots/home.png)
 
 - **Hosted instance** — <https://opendiving.app>, a closed beta with a waitlist. The same
   code at the same release as an install you run yourself; the difference is only who
